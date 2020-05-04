@@ -1,13 +1,3 @@
-def example 
-phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+def greeting
+  put "Hello World!"
 end
